@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 110" width="1200" height="110" role="img" aria-label="Footer">
+<style>
+  @media (prefers-reduced-motion: reduce) { .fm { display: none; } }
+  .f-mono { font-family: 'SF Mono', Consolas, Menlo, monospace; }
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#080C14"/>
+  <stop offset="0.6" stop-color="#0D1524"/>
+  <stop offset="1" stop-color="#121F36"/>
+</linearGradient>
+<linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0B1220"/>
+  <stop offset="1" stop-color="#0F1829"/>
+</linearGradient>
+<linearGradient id="border-glow" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0.75"/>
+  <stop offset="0.5" stop-color="#6366F1" stop-opacity="0.5"/>
+  <stop offset="1" stop-color="#00D2FF" stop-opacity="0.25"/>
+</linearGradient>
+<linearGradient id="cyan-glow" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#1E3A8A"/>
+  <stop offset="0.5" stop-color="#38BDF8"/>
+  <stop offset="1" stop-color="#1E3A8A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.14"/>
+  <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8"/>
+  <stop offset="0.5" stop-color="#FFFFFF"/>
+  <stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+<filter id="blur-glow" x="-100%" y="-100%" width="300%" height="300%">
+  <feGaussianBlur stdDeviation="3"/>
+</filter>
+<filter id="big-glow" x="-50%" y="-300%" width="200%" height="700%">
+  <feGaussianBlur stdDeviation="6"/>
+</filter>
+</defs>
+<rect width="1200" height="110" rx="14" fill="#080C14" stroke="url(#border-glow)" stroke-width="1.2"/>
+<rect x="80" y="34" width="1040" height="1.5" fill="url(#cyan-glow)"/>
+<circle class="fm" cx="80" cy="35" r="4.5" fill="#38BDF8" filter="url(#blur-glow)">
+  <animate attributeName="cx" values="80;1120;80" dur="10s" repeatCount="indefinite"/>
+</circle>
+<text x="600" y="68" text-anchor="middle" class="f-mono" font-size="13" font-weight="700" letter-spacing="3.5" fill="#38BDF8">KRISH SINGH  ·  UTTAR PRADESH, INDIA  ·  AVAILABLE WORLDWIDE</text>
+<text x="600" y="90" text-anchor="middle" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif" font-size="12" fill="#64748B">Crafted with bespoke SVG systems for GitHub · Data &amp; Next-Gen AI Architecture</text>
+</svg>

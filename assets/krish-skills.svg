@@ -1,0 +1,161 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 540" width="1200" height="540" role="img" aria-label="Tech Stack and Skills">
+<style>
+  @media (prefers-reduced-motion: reduce) { .km { display: none; } }
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#080C14"/>
+  <stop offset="0.6" stop-color="#0D1524"/>
+  <stop offset="1" stop-color="#121F36"/>
+</linearGradient>
+<linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0B1220"/>
+  <stop offset="1" stop-color="#0F1829"/>
+</linearGradient>
+<linearGradient id="border-glow" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0.75"/>
+  <stop offset="0.5" stop-color="#6366F1" stop-opacity="0.5"/>
+  <stop offset="1" stop-color="#00D2FF" stop-opacity="0.25"/>
+</linearGradient>
+<linearGradient id="cyan-glow" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#1E3A8A"/>
+  <stop offset="0.5" stop-color="#38BDF8"/>
+  <stop offset="1" stop-color="#1E3A8A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.14"/>
+  <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8"/>
+  <stop offset="0.5" stop-color="#FFFFFF"/>
+  <stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+<filter id="blur-glow" x="-100%" y="-100%" width="300%" height="300%">
+  <feGaussianBlur stdDeviation="3"/>
+</filter>
+<filter id="big-glow" x="-50%" y="-300%" width="200%" height="700%">
+  <feGaussianBlur stdDeviation="6"/>
+</filter>
+</defs>
+<rect width="1200" height="540" rx="16" fill="#080C14"/>
+
+<g transform="translate(10, 0)">
+  <rect x="0" y="12" width="1180" height="88" rx="12" fill="#0B1220" stroke="url(#border-glow)" stroke-width="1"/>
+  <rect x="0" y="28" width="4" height="56" rx="2" fill="#38BDF8"/>
+  <rect class="km" x="0" y="28" width="4" height="56" rx="2" fill="#38BDF8" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="0.0s" repeatCount="indefinite"/>
+  </rect>
+  <text x="36" y="40" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#38BDF8">01 // SQL &amp; RELATIONAL DATABASES</text>
+  
+<rect x="36" y="56" width="100" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="86.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">PostgreSQL</text>
+<rect x="146" y="56" width="60" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="176.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">MySQL</text>
+<rect x="216" y="56" width="100" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="266.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">SQL Server</text>
+<rect x="326" y="56" width="60" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="356.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">T-SQL</text>
+<rect x="396" y="56" width="84" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="438.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">PL/pgSQL</text>
+<rect x="490" y="56" width="124" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="552.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Complex Joins</text>
+<rect x="624" y="56" width="52" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="650.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">CTEs</text>
+<rect x="686" y="56" width="148" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="760.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Window Functions</text>
+<rect x="844" y="56" width="140" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="914.0" y="74" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Schema Indexing</text>
+</g>
+<g transform="translate(10, 0)">
+  <rect x="0" y="114" width="1180" height="88" rx="12" fill="#0B1220" stroke="url(#border-glow)" stroke-width="1"/>
+  <rect x="0" y="130" width="4" height="56" rx="2" fill="#818CF8"/>
+  <rect class="km" x="0" y="130" width="4" height="56" rx="2" fill="#38BDF8" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="0.9s" repeatCount="indefinite"/>
+  </rect>
+  <text x="36" y="142" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#818CF8">02 // AGENTIC AI &amp; LLM SYSTEMS</text>
+  
+<rect x="36" y="158" width="180" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="126.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Agentic AI Workflows</text>
+<rect x="226" y="158" width="164" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="308.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Reflection Pattern</text>
+<rect x="400" y="158" width="108" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="454.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">RAG Systems</text>
+<rect x="518" y="158" width="156" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="596.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Vector Embeddings</text>
+<rect x="684" y="158" width="92" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="730.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">LangChain</text>
+<rect x="786" y="158" width="164" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="868.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Prompt Engineering</text>
+<rect x="960" y="158" width="68" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="994.0" y="176" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Ollama</text>
+</g>
+<g transform="translate(10, 0)">
+  <rect x="0" y="216" width="1180" height="88" rx="12" fill="#0B1220" stroke="url(#border-glow)" stroke-width="1"/>
+  <rect x="0" y="232" width="4" height="56" rx="2" fill="#38BDF8"/>
+  <rect class="km" x="0" y="232" width="4" height="56" rx="2" fill="#38BDF8" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="1.8s" repeatCount="indefinite"/>
+  </rect>
+  <text x="36" y="244" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#38BDF8">03 // DATA ENGINEERING &amp; MODELING</text>
+  
+<rect x="36" y="260" width="148" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="110.0" y="278" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Data Warehousing</text>
+<rect x="194" y="260" width="108" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="248.0" y="278" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Star Schema</text>
+<rect x="312" y="260" width="172" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="398.0" y="278" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">ETL / ELT Pipelines</text>
+<rect x="494" y="260" width="204" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="596.0" y="278" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Normalization (1NF-3NF)</text>
+<rect x="708" y="260" width="220" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="818.0" y="278" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Data Integrity &amp; Cleaning</text>
+<rect x="938" y="260" width="108" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="992.0" y="278" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">ER Diagrams</text>
+</g>
+<g transform="translate(10, 0)">
+  <rect x="0" y="318" width="1180" height="88" rx="12" fill="#0B1220" stroke="url(#border-glow)" stroke-width="1"/>
+  <rect x="0" y="334" width="4" height="56" rx="2" fill="#60A5FA"/>
+  <rect class="km" x="0" y="334" width="4" height="56" rx="2" fill="#38BDF8" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="2.7s" repeatCount="indefinite"/>
+  </rect>
+  <text x="36" y="346" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#60A5FA">04 // DATA ANALYTICS &amp; PYTHON</text>
+  
+<rect x="36" y="362" width="84" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="78.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Python 3</text>
+<rect x="130" y="362" width="68" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="164.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Pandas</text>
+<rect x="208" y="362" width="60" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="238.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">NumPy</text>
+<rect x="278" y="362" width="268" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="412.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Exploratory Data Analysis (EDA)</text>
+<rect x="556" y="362" width="100" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="606.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Matplotlib</text>
+<rect x="666" y="362" width="180" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="756.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Statistical Analysis</text>
+<rect x="856" y="362" width="164" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="938.0" y="380" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Business Reporting</text>
+</g>
+<g transform="translate(10, 0)">
+  <rect x="0" y="420" width="1180" height="88" rx="12" fill="#0B1220" stroke="url(#border-glow)" stroke-width="1"/>
+  <rect x="0" y="436" width="4" height="56" rx="2" fill="#818CF8"/>
+  <rect class="km" x="0" y="436" width="4" height="56" rx="2" fill="#38BDF8" opacity="0">
+    <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="3.6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="36" y="448" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#818CF8">05 // DEVELOPER TOOLS &amp; PROCESS</text>
+  
+<rect x="36" y="464" width="116" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="94.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Git &amp; GitHub</text>
+<rect x="162" y="464" width="76" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="200.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">VS Code</text>
+<rect x="248" y="464" width="92" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="294.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">REST APIs</text>
+<rect x="350" y="464" width="92" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="396.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">JSON Data</text>
+<rect x="452" y="464" width="124" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="514.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Agile / Scrum</text>
+<rect x="586" y="464" width="172" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="672.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Technical Mentoring</text>
+<rect x="768" y="464" width="172" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="854.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">SRS Schema Auditing</text>
+</g>
+</svg>

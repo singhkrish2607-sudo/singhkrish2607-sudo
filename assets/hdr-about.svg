@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="01 About Me">
+<style>
+  @media (prefers-reduced-motion: reduce) { .am { display: none; } }
+  .hdr-mono { font-family: 'SF Mono', Consolas, Menlo, monospace; }
+  .hdr-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; }
+</style>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#080C14"/>
+  <stop offset="0.6" stop-color="#0D1524"/>
+  <stop offset="1" stop-color="#121F36"/>
+</linearGradient>
+<linearGradient id="card-bg" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#0B1220"/>
+  <stop offset="1" stop-color="#0F1829"/>
+</linearGradient>
+<linearGradient id="border-glow" x1="0" y1="0" x2="1" y2="1">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0.75"/>
+  <stop offset="0.5" stop-color="#6366F1" stop-opacity="0.5"/>
+  <stop offset="1" stop-color="#00D2FF" stop-opacity="0.25"/>
+</linearGradient>
+<linearGradient id="cyan-glow" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#1E3A8A"/>
+  <stop offset="0.5" stop-color="#38BDF8"/>
+  <stop offset="1" stop-color="#1E3A8A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
+  <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.14"/>
+  <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
+  <stop offset="0" stop-color="#38BDF8"/>
+  <stop offset="0.5" stop-color="#FFFFFF"/>
+  <stop offset="1" stop-color="#818CF8"/>
+</linearGradient>
+<filter id="blur-glow" x="-100%" y="-100%" width="300%" height="300%">
+  <feGaussianBlur stdDeviation="3"/>
+</filter>
+<filter id="big-glow" x="-50%" y="-300%" width="200%" height="700%">
+  <feGaussianBlur stdDeviation="6"/>
+</filter>
+</defs>
+<rect width="1200" height="70" rx="14" fill="#080C14"/>
+<rect x="1" y="1" width="1198" height="68" rx="13" fill="none" stroke="url(#border-glow)" stroke-width="1.2"/>
+
+<!-- Section Number -->
+<text x="32" y="44" class="hdr-mono" font-size="16" font-weight="700" letter-spacing="3" fill="#38BDF8">01</text>
+
+<!-- Section Title -->
+<text x="96" y="44" class="hdr-sans" font-size="20" font-weight="700" letter-spacing="2" fill="#F8FAFC">ABOUT ME</text>
+
+<!-- Glowing horizontal divider line with travelling particle -->
+<rect x="420" y="39" width="750" height="2" fill="url(#cyan-glow)"/>
+<circle class="am" cx="420" cy="40" r="4" fill="#38BDF8" opacity="0" filter="url(#blur-glow)">
+  <animate attributeName="cx" values="420;1160;420" dur="9s" repeatCount="indefinite"/>
+  <animate attributeName="opacity" values="0;1;0" dur="9s" repeatCount="indefinite"/>
+</circle>
+</svg>
