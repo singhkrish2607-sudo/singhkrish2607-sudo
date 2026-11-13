@@ -141,7 +141,7 @@
   <rect class="km" x="0" y="436" width="4" height="56" rx="2" fill="#38BDF8" opacity="0">
     <animate attributeName="opacity" values="0;0.9;0" dur="5s" begin="3.6s" repeatCount="indefinite"/>
   </rect>
-  <text x="36" y="448" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#818CF8">05 // DEVELOPER TOOLS &amp; PROCESS</text>
+  <text x="36" y="448" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="12" font-weight="700" letter-spacing="2" fill="#818CF8">05 // DEVELOPER TOOLS &amp; WORKFLOW</text>
   
 <rect x="36" y="464" width="116" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
 <text x="94.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Git &amp; GitHub</text>
@@ -155,7 +155,7 @@
 <text x="514.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Agile / Scrum</text>
 <rect x="586" y="464" width="172" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
 <text x="672.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Technical Mentoring</text>
-<rect x="768" y="464" width="172" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-<text x="854.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">SRS Schema Auditing</text>
+<rect x="768" y="464" width="156" height="28" rx="14" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="846.0" y="482" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11.5" font-weight="600" fill="#E2E8F0">Linux Environment</text>
 </g>
 </svg>

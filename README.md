@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/singhkrish2607-sudo">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Krish%20Singh!;SQL%20Developer%20%26%20Data%20Analyst;Building%20Agentic%20AI%20%26%20Self-Correcting%20Agents;Enterprise%20Database%20%26%20ETL%20Architect;Mentored%2060%2B%20Learners%20in%20Advanced%20SQL&font=Fira%20Code&center=true&width=680&height=48&color=38BDF8&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Krish%20Singh!;SQL%20Developer%20%26%20Data%20Analyst;Building%20Agentic%20AI%20%26%20Self-Correcting%20Agents;Enterprise%20Database%20%26%20ETL%20Architect;Open%20Source%20Contributor%20%26%20Builder&font=Fira%20Code&center=true&width=680&height=48&color=38BDF8&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
   </a>
 </p>
 
@@ -10,31 +10,50 @@
 
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/krish-singh-688884320/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="23%"/></a>
 <a href="https://portfolio-site-966.app.orvisai.com/"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="23%"/></a>
+<a href="https://www.linkedin.com/in/krish-singh-688884320/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="23%"/></a>
 <a href="mailto:singh.krish2003@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="23%"/></a>
 <a href="https://x.com/krishsh26"><img src="assets/btn-x.svg" alt="Twitter / X" width="23%"/></a>
 
 <br/><br/>
 
-<img src="assets/krish-stats.svg" alt="2+ Years Production SQL &amp; Analytics; 60+ Students Mentored; 9+ Deployed Repos &amp; Architectures; B.Sc. Mathematics Graduate" width="100%"/>
+<img src="assets/krish-stats.svg" alt="9+ Public Repositories; 2+ Years Coding SQL &amp; Python; 60+ Developers Mentored; Agentic AI &amp; RAG Architectures" width="100%"/>
 
 </div>
 
 <img src="assets/hdr-about.svg" alt="01 About Me" width="100%"/>
 
-I am a **SQL Developer, Data Analyst, and Agentic AI Developer** based in Uttar Pradesh, India, with **2+ years of hands-on production experience** working with PostgreSQL, MySQL, and SQL Server. Currently at **Cupule Technologies Pvt. Ltd.**, I engineer complex relational queries (multi-table joins, CTEs, subqueries, and window functions), audit database schemas against Software Requirement Specifications (SRS), and build comprehensive normalized data models with strict referential integrity. In addition, I have trained and mentored **60–70 learners** in advanced SQL, query debugging, and data modeling.
+Hey there! I'm **Krish** — an engineer passionate about building high-performance **relational database systems**, scalable **ETL architectures**, and autonomous **Agentic AI workflows**.
 
-Bridging enterprise data platforms with modern artificial intelligence, I design **autonomous agentic workflows** and **Retrieval-Augmented Generation (RAG)** systems in Python. My AI engineering focuses on self-correcting agent loops (using the reflection pattern to iteratively generate, test, and debug code) and context-aware conversational assistants backed by vector search. I hold a **B.Sc. in Mathematics** from Bundelkhand University (2024), bringing deep algorithmic rigor and quantitative problem-solving to every system I build. I am available as an **immediate joiner** for high-impact roles.
+- 🤖 **Agentic AI & LLMs:** Engineering self-correcting code generation agents (leveraging iterative reflection loops in Python), Retrieval-Augmented Generation (RAG) knowledge systems, and vector search pipelines.
+- 🗄️ **Relational Data & Systems:** Designing normalized database ecosystems (PostgreSQL, MySQL, SQL Server), writing complex analytical queries (CTEs, subqueries, window functions), and modeling dimensional data warehouses.
+- 💡 **Open Source & Knowledge Sharing:** Active builder on GitHub and technical mentor, having guided 60+ developers through query debugging, database modeling, and schema optimization.
+- 🌐 *For full career history, client case studies, and interactive demos, visit my [Live Portfolio](https://portfolio-site-966.app.orvisai.com/).*
 
-<img src="assets/hdr-exp.svg" alt="02 Experience &amp; Impact" width="100%"/>
+<img src="assets/hdr-skills.svg" alt="02 Tech Stack &amp; Arsenal" width="100%"/>
 
-<img src="assets/krish-timeline.svg" alt="Career Timeline: Sep 2024 - Present: SQL Developer &amp; Trainer at Cupule Technologies Pvt. Ltd.; Mar 2024 - Sep 2024: Data Analyst Intern at Cupule Technologies Pvt. Ltd.; 2021 - 2024: B.Sc. Mathematics at Bundelkhand University" width="100%"/>
+<img src="assets/krish-skills.svg" alt="Tech Stack: SQL &amp; Relational Databases, Agentic AI &amp; LLM Systems, Data Engineering &amp; Modeling, Data Analytics &amp; Python, Developer Tools &amp; Process" width="100%"/>
 
-<img src="assets/hdr-projects.svg" alt="03 Selected Projects" width="100%"/>
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
+  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>&nbsp;
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>&nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>&nbsp;
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+</div>
+
+<img src="assets/hdr-projects.svg" alt="03 Featured Repositories" width="100%"/>
 
 <details open>
-  <summary><b>📌 Featured Repositories &amp; Architectures</b></summary>
+  <summary><b>📌 Open-Source Systems &amp; Repositories</b></summary>
   <br/>
 
 <a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent">
@@ -63,29 +82,9 @@ Bridging enterprise data platforms with modern artificial intelligence, I design
 
 </details>
 
-Explore more open-source repositories and live deployments directly on my [Interactive Portfolio](https://portfolio-site-966.app.orvisai.com/) or across my [GitHub Repositories](https://github.com/singhkrish2607-sudo?tab=repositories).
+Explore all public codebases directly across my [GitHub Repositories](https://github.com/singhkrish2607-sudo?tab=repositories).
 
-<img src="assets/hdr-skills.svg" alt="04 Tech Stack &amp; Arsenal" width="100%"/>
-
-<img src="assets/krish-skills.svg" alt="Tech Stack: SQL &amp; Relational Databases, Agentic AI &amp; LLM Systems, Data Engineering &amp; Modeling, Data Analytics &amp; Python, Developer Tools &amp; Process" width="100%"/>
-
-<br/>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>&nbsp;
-  <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>&nbsp;
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>&nbsp;
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>&nbsp;
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>&nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>&nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>&nbsp;
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>&nbsp;
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</div>
-
-<img src="assets/hdr-activity.svg" alt="05 GitHub Activity &amp; Telemetry" width="100%"/>
+<img src="assets/hdr-activity.svg" alt="04 GitHub Stats &amp; Telemetry" width="100%"/>
 
 <div align="center">
 
@@ -141,12 +140,12 @@ Explore more open-source repositories and live deployments directly on my [Inter
 
 </div>
 
-<img src="assets/hdr-connect.svg" alt="06 Connect &amp; Collaborate" width="100%"/>
+<img src="assets/hdr-connect.svg" alt="05 Connect &amp; Collaborate" width="100%"/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/krish-singh-688884320/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="23%"/></a>
 <a href="https://portfolio-site-966.app.orvisai.com/"><img src="assets/btn-portfolio.svg" alt="Portfolio" width="23%"/></a>
+<a href="https://www.linkedin.com/in/krish-singh-688884320/"><img src="assets/btn-linkedin.svg" alt="LinkedIn" width="23%"/></a>
 <a href="mailto:singh.krish2003@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="23%"/></a>
 <a href="https://x.com/krishsh26"><img src="assets/btn-x.svg" alt="Twitter / X" width="23%"/></a>
 

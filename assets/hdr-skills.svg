@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="04 Tech Stack &amp; Arsenal">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 70" width="1200" height="70" role="img" aria-label="02 Tech Stack &amp; Arsenal">
 <style>
   @media (prefers-reduced-motion: reduce) { .am { display: none; } }
   .hdr-mono { font-family: 'SF Mono', Consolas, Menlo, monospace; }
@@ -45,7 +45,7 @@
 <rect x="1" y="1" width="1198" height="68" rx="13" fill="none" stroke="url(#border-glow)" stroke-width="1.2"/>
 
 <!-- Section Number -->
-<text x="32" y="44" class="hdr-mono" font-size="16" font-weight="700" letter-spacing="3" fill="#38BDF8">04</text>
+<text x="32" y="44" class="hdr-mono" font-size="16" font-weight="700" letter-spacing="3" fill="#38BDF8">02</text>
 
 <!-- Section Title -->
 <text x="96" y="44" class="hdr-sans" font-size="20" font-weight="700" letter-spacing="2" fill="#F8FAFC">TECH STACK &amp; ARSENAL</text>

@@ -64,17 +64,17 @@
 
 <!-- Status Pill -->
 <g transform="translate(60, 52)">
-  <rect width="360" height="30" rx="15" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
+  <rect width="320" height="30" rx="15" fill="#0F172A" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1"/>
   <circle cx="18" cy="15" r="4.5" fill="#22C55E"/>
   <circle class="motion" cx="18" cy="15" r="4.5" fill="#22C55E" opacity="0.6">
     <animate attributeName="r" values="4.5;9;4.5" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0.6;0;0.6" dur="2.5s" repeatCount="indefinite"/>
   </circle>
-  <text x="32" y="20" class="font-mono" font-size="11" font-weight="600" letter-spacing="1.5" fill="#38BDF8">AVAILABLE FOR IMMEDIATE ROLES</text>
+  <text x="32" y="20" class="font-mono" font-size="11" font-weight="600" letter-spacing="1.5" fill="#38BDF8">OPEN FOR COLLABORATION</text>
 </g>
 
 <!-- Terminal Prompt Accent -->
-<text x="60" y="125" class="font-mono" font-size="13" letter-spacing="2" fill="#64748B">// SYSTEM.ENGINEER.PROFILE</text>
+<text x="60" y="125" class="font-mono" font-size="13" letter-spacing="2" fill="#64748B">// GITHUB.DEVELOPER.PROFILE</text>
 
 <!-- Main Name -->
 <text x="60" y="205" class="font-sans" font-size="74" font-weight="800" letter-spacing="-1.5" fill="url(#text-grad)">KRISH SINGH</text>
@@ -86,31 +86,31 @@
   <text x="445" y="0" class="font-mono" font-size="18" font-weight="700" letter-spacing="3" fill="#818CF8">AGENTIC AI DEVELOPER</text>
 </g>
 
-<!-- Bio / Tagline -->
+<!-- Bio / Tagline (Dev-focused, no corporate history/degrees) -->
 <text x="60" y="295" class="font-sans" font-size="16.5" fill="#94A3B8" font-weight="400">
-  Specialized in complex relational database engineering, production-grade schema design &amp; ETL pipelines.
+  Building self-correcting AI code generation agents, RAG knowledge systems &amp; vector search engines.
 </text>
 <text x="60" y="322" class="font-sans" font-size="16.5" fill="#94A3B8" font-weight="400">
-  Pioneering autonomous self-correcting AI code generation agents &amp; RAG architectures in Python.
+  Engineering high-performance relational architectures, dimensional schemas &amp; automated ETL pipelines.
 </text>
 
-<!-- Highlight Badges Bar -->
+<!-- Highlight Badges Bar (Dev & Code focused) -->
 <g transform="translate(60, 362)">
-  <!-- Badge 1 -->
-  <rect x="0" y="0" width="140" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="70" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#E2E8F0">📍 INDIA</text>
+  <!-- Badge 1: Location -->
+  <rect x="0" y="0" width="130" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <text x="65" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#E2E8F0">📍 INDIA</text>
 
-  <!-- Badge 2 -->
-  <rect x="152" y="0" width="230" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="267" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#38BDF8">⚡ CUPULE TECHNOLOGIES</text>
+  <!-- Badge 2: Tech Core -->
+  <rect x="142" y="0" width="200" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <text x="242" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#38BDF8">🐍 PYTHON &amp; SQL</text>
 
-  <!-- Badge 3 -->
-  <rect x="394" y="0" width="168" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="478" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#818CF8">🚀 2+ YEARS EXP</text>
+  <!-- Badge 3: Specialization -->
+  <rect x="354" y="0" width="180" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <text x="444" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#818CF8">🤖 AGENTIC AI</text>
 
-  <!-- Badge 4 -->
-  <rect x="574" y="0" width="200" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="674" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#E2E8F0">🎓 B.SC. MATHEMATICS</text>
+  <!-- Badge 4: Open Source -->
+  <rect x="546" y="0" width="190" height="34" rx="17" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+  <text x="641" y="22" text-anchor="middle" class="font-mono" font-size="11.5" font-weight="600" fill="#E2E8F0">⚡ OPEN SOURCE</text>
 </g>
 
 <!-- Right Side Tech Decorative Glyph -->
