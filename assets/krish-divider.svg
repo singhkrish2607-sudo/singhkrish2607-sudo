@@ -10,9 +10,9 @@
   <stop offset="1" stop-color="#0F1829"/>
 </linearGradient>
 <linearGradient id="border-glow" x1="0" y1="0" x2="1" y2="1">
-  <stop offset="0" stop-color="#38BDF8" stop-opacity="0.75"/>
-  <stop offset="0.5" stop-color="#6366F1" stop-opacity="0.5"/>
-  <stop offset="1" stop-color="#00D2FF" stop-opacity="0.25"/>
+  <stop offset="0" stop-color="#38BDF8" stop-opacity="0.85"/>
+  <stop offset="0.5" stop-color="#6366F1" stop-opacity="0.6"/>
+  <stop offset="1" stop-color="#00D2FF" stop-opacity="0.35"/>
 </linearGradient>
 <linearGradient id="cyan-glow" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#1E3A8A"/>
@@ -21,7 +21,7 @@
 </linearGradient>
 <linearGradient id="shimmer" x1="0" y1="0" x2="1" y2="0">
   <stop offset="0" stop-color="#38BDF8" stop-opacity="0"/>
-  <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.14"/>
+  <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.18"/>
   <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
 <linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
@@ -33,7 +33,7 @@
   <feGaussianBlur stdDeviation="3"/>
 </filter>
 <filter id="big-glow" x="-50%" y="-300%" width="200%" height="700%">
-  <feGaussianBlur stdDeviation="6"/>
+  <feGaussianBlur stdDeviation="8"/>
 </filter>
 </defs>
 <rect x="80" y="14" width="1040" height="1.5" fill="url(#cyan-glow)" opacity="0.7"/>

@@ -51,6 +51,20 @@
     .btn-row a {
       flex: 1;
     }
+    .repo-grid {
+      display: flex;
+      gap: 14px;
+      margin-bottom: 14px;
+      justify-content: space-between;
+    }
+    .repo-grid a {
+      flex: 1;
+      display: block;
+    }
+    .repo-grid img {
+      width: 100%;
+      display: block;
+    }
     .summary-grid {
       display: flex;
       gap: 10px;
@@ -75,7 +89,7 @@
       margin: 16px 0;
       border: 1px solid #1E293B;
       border-radius: 8px;
-      padding: 12px;
+      padding: 16px;
       background: #0B1220;
     }
     summary {
@@ -99,6 +113,7 @@
       <img src="https://readme-typing-svg.demolab.com/?lines=Hi%20there,%20I'm%20Krish%20Singh!;SQL%20Developer%20%26%20Data%20Analyst;Building%20Agentic%20AI%20%26%20Self-Correcting%20Agents;Enterprise%20Database%20%26%20ETL%20Architect;Open%20Source%20Contributor%20%26%20Builder&font=Fira%20Code&center=true&width=680&height=48&color=38BDF8&vCenter=true&pause=1000&size=28" alt="Typing SVG" />
     </p>
 
+    <!-- Hero Banner with 3D Character Avatar on the right -->
     <div align="center">
       <img src="assets/krish-hero.svg" alt="Krish Singh Hero" width="100%"/>
       <br/><br/>
@@ -108,10 +123,9 @@
         <a href="mailto:singh.krish2003@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="100%"/></a>
         <a href="https://x.com/krishsh26" target="_blank"><img src="assets/btn-x.svg" alt="Twitter / X" width="100%"/></a>
       </div>
-      <br/>
-      <img src="assets/krish-stats.svg" alt="Metrics" width="100%"/>
     </div>
 
+    <!-- 01 About Me (Four boxes removed as requested) -->
     <br/>
     <img src="assets/hdr-about.svg" alt="01 About Me" width="100%"/>
 
@@ -125,6 +139,7 @@
       <li>🌐 <em>For full career history, client case studies, and interactive demos, visit my <a href="https://portfolio-site-966.app.orvisai.com/" target="_blank">Live Portfolio</a>.</em></li>
     </ul>
 
+    <!-- 02 Tech Stack -->
     <img src="assets/hdr-skills.svg" alt="02 Tech Stack" width="100%"/>
     <br/><br/>
     <img src="assets/krish-skills.svg" alt="Tech Stack" width="100%"/>
@@ -144,57 +159,58 @@
     </div>
     <br/><br/>
 
-    <!-- Featured Projects Section -->
+    <!-- 03 Featured Repositories (Aligned in 2-column grid format) -->
     <img src="assets/hdr-projects.svg" alt="03 Featured Projects" width="100%"/>
     <br/>
     <details open>
       <summary><b>📌 Open-Source Systems &amp; Repositories</b></summary>
       <br/>
-      <a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent" target="_blank"><img src="assets/project-1.svg" alt="Reflective Code Generation Agent" width="100%"/></a>
-      <br/><br/>
-      <a href="https://github.com/singhkrish2607-sudo/ChatBot-using-RAG" target="_blank"><img src="assets/project-2.svg" alt="ChatBot Using RAG" width="100%"/></a>
-      <br/><br/>
-      <a href="https://github.com/singhkrish2607-sudo/SQL-data-warehouse-project" target="_blank"><img src="assets/project-3.svg" alt="SQL Data Warehouse" width="100%"/></a>
-      <br/><br/>
-      <a href="https://github.com/singhkrish2607-sudo/Zepto-Data-Analysis-SQL-Project" target="_blank"><img src="assets/project-4.svg" alt="Zepto Analysis" width="100%"/></a>
-      <br/><br/>
-      <a href="https://github.com/singhkrish2607-sudo/Bus_booking_analysis" target="_blank"><img src="assets/project-5.svg" alt="SETURA Intercity Bus Booking" width="100%"/></a>
-      <br/><br/>
-      <a href="https://github.com/singhkrish2607-sudo/portfolio" target="_blank"><img src="assets/project-6.svg" alt="Portfolio" width="100%"/></a>
+      <div class="repo-grid">
+        <a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent" target="_blank"><img src="assets/project-1.svg" alt="Reflective Code Generation Agent"/></a>
+        <a href="https://github.com/singhkrish2607-sudo/ChatBot-using-RAG" target="_blank"><img src="assets/project-2.svg" alt="ChatBot Using RAG"/></a>
+      </div>
+      <div class="repo-grid">
+        <a href="https://github.com/singhkrish2607-sudo/SQL-data-warehouse-project" target="_blank"><img src="assets/project-3.svg" alt="SQL Data Warehouse"/></a>
+        <a href="https://github.com/singhkrish2607-sudo/Zepto-Data-Analysis-SQL-Project" target="_blank"><img src="assets/project-4.svg" alt="Zepto Quick-Commerce Analysis"/></a>
+      </div>
+      <div class="repo-grid">
+        <a href="https://github.com/singhkrish2607-sudo/Bus_booking_analysis" target="_blank"><img src="assets/project-5.svg" alt="SETURA Bus Booking System"/></a>
+        <a href="https://github.com/singhkrish2607-sudo/portfolio" target="_blank"><img src="assets/project-6.svg" alt="DataVision AI & Developer Web"/></a>
+      </div>
     </details>
 
     <p>
       Explore all public codebases directly across my <a href="https://github.com/singhkrish2607-sudo?tab=repositories" target="_blank">GitHub Repositories</a>.
     </p>
 
-    <!-- GitHub Activity Section -->
+    <!-- 04 GitHub Activity Section (Light, high-contrast, clearly visible text and charts) -->
     <img src="assets/hdr-activity.svg" alt="04 GitHub Activity" width="100%"/>
     <br/><br/>
     <div align="center">
       <img src="assets/panel-top.svg" alt="Telemetry" width="100%"/>
       <br/><br/>
       
-      <!-- Streak Stats -->
+      <!-- Streak Stats: High contrast bright numbers and labels -->
       <a href="https://github.com/singhkrish2607-sudo" target="_blank">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2607-sudo&theme=dark&background=080C14&border=1E293B&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=38BDF8&sideLabels=94A3B8&dates=64748B&hide_border=true" alt="Streak" style="width: 70%;"/>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2607-sudo&theme=dark&background=0B132B&border=38BDF8&stroke=38BDF8&ring=38BDF8&fire=38BDF8&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00F2FE&sideLabels=38BDF8&dates=F1F5F9&hide_border=false" alt="Streak" style="width: 70%;"/>
       </a>
       <br/><br/>
 
-      <!-- Profile Summary Cards from Ahtisham-1214 -->
+      <!-- Profile Summary Cards with TokyoNight (Bright sky blue titles, silver-white text, vibrant charts) -->
       <div class="summary-grid">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhkrish2607-sudo&theme=ocean_dark" alt="Repos per Language"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhkrish2607-sudo&theme=ocean_dark" alt="Most Commit Language"/>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhkrish2607-sudo&theme=ocean_dark&utcOffset=%2B5.5" alt="Productive Time"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhkrish2607-sudo&theme=tokyonight" alt="Repos per Language"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhkrish2607-sudo&theme=tokyonight" alt="Most Commit Language"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhkrish2607-sudo&theme=tokyonight&utcOffset=%2B5.5" alt="Productive Time"/>
       </div>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhkrish2607-sudo&theme=ocean_dark" alt="Profile Details" width="100%"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhkrish2607-sudo&theme=tokyonight" alt="Profile Details" width="100%"/>
       <br/><br/>
 
-      <!-- Live Contribution Graph -->
-      <img src="https://ghchart.rshah.org/00D2FF/singhkrish2607-sudo" alt="GitHub Contributions" width="100%"/>
+      <!-- Live Contribution Graph in bright neon cyan -->
+      <img src="https://ghchart.rshah.org/00F2FE/singhkrish2607-sudo" alt="GitHub Contributions" width="100%"/>
       <br/><br/>
 
-      <!-- Random Dev Quote -->
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=38BDF8&authorColor=94A3B8&backgroundColor=080C14" alt="Dev Quote" style="max-width: 600px; width: 100%;"/>
+      <!-- Random Dev Quote (Bright cyan quote, pure white author) -->
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quoteColor=38BDF8&authorColor=FFFFFF&backgroundColor=0B1220" alt="Dev Quote" style="max-width: 600px; width: 100%;"/>
     </div>
     <br/><br/>
 
@@ -208,6 +224,7 @@
 +========================================================================+
     </pre>
 
+    <!-- 05 Connect -->
     <img src="assets/hdr-connect.svg" alt="05 Connect" width="100%"/>
     <br/><br/>
     <div align="center">

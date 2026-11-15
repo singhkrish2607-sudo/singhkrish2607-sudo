@@ -15,19 +15,17 @@
 <a href="mailto:singh.krish2003@gmail.com"><img src="assets/btn-email.svg" alt="Email" width="23%"/></a>
 <a href="https://x.com/krishsh26"><img src="assets/btn-x.svg" alt="Twitter / X" width="23%"/></a>
 
-<br/><br/>
-
-<img src="assets/krish-stats.svg" alt="9+ Public Repositories; 2+ Years Coding SQL &amp; Python; 60+ Developers Mentored; Agentic AI &amp; RAG Architectures" width="100%"/>
-
 </div>
+
+<br/>
 
 <img src="assets/hdr-about.svg" alt="01 About Me" width="100%"/>
 
 Hey there! I'm **Krish** — an engineer passionate about building high-performance **relational database systems**, scalable **ETL architectures**, and autonomous **Agentic AI workflows**.
 
-- 🤖 **Agentic AI & LLMs:** Engineering self-correcting code generation agents (leveraging iterative reflection loops in Python), Retrieval-Augmented Generation (RAG) knowledge systems, and vector search pipelines.
-- 🗄️ **Relational Data & Systems:** Designing normalized database ecosystems (PostgreSQL, MySQL, SQL Server), writing complex analytical queries (CTEs, subqueries, window functions), and modeling dimensional data warehouses.
-- 💡 **Open Source & Knowledge Sharing:** Active builder on GitHub and technical mentor, having guided 60+ developers through query debugging, database modeling, and schema optimization.
+- 🤖 **Agentic AI &amp; LLMs:** Engineering self-correcting code generation agents (leveraging iterative reflection loops in Python), Retrieval-Augmented Generation (RAG) knowledge systems, and vector search pipelines.
+- 🗄️ **Relational Data &amp; Systems:** Designing normalized database ecosystems (PostgreSQL, MySQL, SQL Server), writing complex analytical queries (CTEs, subqueries, window functions), and modeling dimensional data warehouses.
+- 💡 **Open Source &amp; Knowledge Sharing:** Active builder on GitHub and technical mentor, having guided 60+ developers through query debugging, database modeling, and schema optimization.
 - 🌐 *For full career history, client case studies, and interactive demos, visit my [Live Portfolio](https://portfolio-site-966.app.orvisai.com/).*
 
 <img src="assets/hdr-skills.svg" alt="02 Tech Stack &amp; Arsenal" width="100%"/>
@@ -56,29 +54,32 @@ Hey there! I'm **Krish** — an engineer passionate about building high-performa
   <summary><b>📌 Open-Source Systems &amp; Repositories</b></summary>
   <br/>
 
-<a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent">
-  <img src="assets/project-1.svg" alt="Reflective Self-Correcting Code Generation Agent" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent">
+    <img src="assets/project-1.svg" width="49%" alt="Reflective Code Generation Agent"/>
+  </a>
+  <a href="https://github.com/singhkrish2607-sudo/ChatBot-using-RAG">
+    <img src="assets/project-2.svg" width="49%" alt="ChatBot Using RAG"/>
+  </a>
+</p>
 
-<a href="https://github.com/singhkrish2607-sudo/ChatBot-using-RAG">
-  <img src="assets/project-2.svg" alt="ChatBot Using RAG" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://github.com/singhkrish2607-sudo/SQL-data-warehouse-project">
+    <img src="assets/project-3.svg" width="49%" alt="Enterprise SQL Data Warehouse"/>
+  </a>
+  <a href="https://github.com/singhkrish2607-sudo/Zepto-Data-Analysis-SQL-Project">
+    <img src="assets/project-4.svg" width="49%" alt="Zepto Quick-Commerce Analysis"/>
+  </a>
+</p>
 
-<a href="https://github.com/singhkrish2607-sudo/SQL-data-warehouse-project">
-  <img src="assets/project-3.svg" alt="Enterprise SQL Data Warehouse" width="100%"/>
-</a>
-
-<a href="https://github.com/singhkrish2607-sudo/Zepto-Data-Analysis-SQL-Project">
-  <img src="assets/project-4.svg" alt="Zepto Quick-Commerce Data Analysis" width="100%"/>
-</a>
-
-<a href="https://github.com/singhkrish2607-sudo/Bus_booking_analysis">
-  <img src="assets/project-5.svg" alt="SETURA Intercity Bus Booking System" width="100%"/>
-</a>
-
-<a href="https://github.com/singhkrish2607-sudo/portfolio">
-  <img src="assets/project-6.svg" alt="DataVision AI &amp; Developer Portfolio" width="100%"/>
-</a>
+<p align="center">
+  <a href="https://github.com/singhkrish2607-sudo/Bus_booking_analysis">
+    <img src="assets/project-5.svg" width="49%" alt="SETURA Bus Booking System"/>
+  </a>
+  <a href="https://github.com/singhkrish2607-sudo/portfolio">
+    <img src="assets/project-6.svg" width="49%" alt="DataVision AI &amp; Developer Web"/>
+  </a>
+</p>
 
 </details>
 
@@ -92,35 +93,35 @@ Explore all public codebases directly across my [GitHub Repositories](https://gi
 
 <br/><br/>
 
-<!-- GitHub Streak Stats -->
+<!-- GitHub Streak Stats (Light, high-contrast text and bright glowing borders) -->
 <a href="https://github.com/singhkrish2607-sudo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2607-sudo&amp;theme=dark&amp;background=080C14&amp;border=1E293B&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakNum=F8FAFC&amp;sideNums=F8FAFC&amp;currStreakLabel=38BDF8&amp;sideLabels=94A3B8&amp;dates=64748B&amp;hide_border=true" alt="Krish's GitHub streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2607-sudo&amp;theme=dark&amp;background=0B132B&amp;border=38BDF8&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00F2FE&amp;sideLabels=38BDF8&amp;dates=F1F5F9&amp;hide_border=false" alt="Krish's GitHub streak" width="70%"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Profile Summary Cards (Reference: Ahtisham-1214) -->
+<!-- GitHub Profile Summary Cards (TokyoNight theme: high-contrast sky blue headers and bright silver text) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhkrish2607-sudo&amp;theme=ocean_dark" width="32%" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhkrish2607-sudo&amp;theme=ocean_dark" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhkrish2607-sudo&amp;theme=ocean_dark&amp;utcOffset=%2B5.5" width="32%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhkrish2607-sudo&amp;theme=tokyonight" width="32%" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhkrish2607-sudo&amp;theme=tokyonight" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhkrish2607-sudo&amp;theme=tokyonight&amp;utcOffset=%2B5.5" width="32%" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhkrish2607-sudo&amp;theme=ocean_dark" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhkrish2607-sudo&amp;theme=tokyonight" width="100%" alt="Profile Details"/>
 </p>
 
-<!-- Live Contribution Heatmap -->
+<!-- Live Contribution Heatmap (Vibrant neon cyan) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00D2FF/singhkrish2607-sudo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00F2FE/singhkrish2607-sudo">
   <img src="https://ghchart.rshah.org/0284C7/singhkrish2607-sudo" alt="Krish's GitHub contribution graph" width="100%"/>
 </picture>
 
 <br/><br/>
 
-<!-- Random Dev Quote (Reference: Ahtisham-1214) -->
+<!-- Random Dev Quote (Bright cyan quote, pure white author) -->
 <a href="https://github.com/singhkrish2607-sudo">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quoteColor=38BDF8&amp;authorColor=94A3B8&amp;backgroundColor=080C14" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quoteColor=38BDF8&amp;authorColor=FFFFFF&amp;backgroundColor=0B1220" alt="Random Dev Quote"/>
 </a>
 
 </div>
