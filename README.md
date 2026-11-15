@@ -54,32 +54,29 @@ Hey there! I'm **Krish** — an engineer passionate about building high-performa
   <summary><b>📌 Open-Source Systems &amp; Repositories</b></summary>
   <br/>
 
-<p align="center">
-  <a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent">
-    <img src="assets/project-1.svg" width="49%" alt="Reflective Code Generation Agent"/>
-  </a>
-  <a href="https://github.com/singhkrish2607-sudo/ChatBot-using-RAG">
-    <img src="assets/project-2.svg" width="49%" alt="ChatBot Using RAG"/>
-  </a>
-</p>
+<a href="https://github.com/singhkrish2607-sudo/Reflective-Self-Correcting-Code-Generation-Agent">
+  <img src="assets/project-1.svg" width="100%" alt="Reflective Self-Correcting Code Generation Agent"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/singhkrish2607-sudo/SQL-data-warehouse-project">
-    <img src="assets/project-3.svg" width="49%" alt="Enterprise SQL Data Warehouse"/>
-  </a>
-  <a href="https://github.com/singhkrish2607-sudo/Zepto-Data-Analysis-SQL-Project">
-    <img src="assets/project-4.svg" width="49%" alt="Zepto Quick-Commerce Analysis"/>
-  </a>
-</p>
+<a href="https://github.com/singhkrish2607-sudo/ChatBot-using-RAG">
+  <img src="assets/project-2.svg" width="100%" alt="ChatBot Using RAG Architecture"/>
+</a>
 
-<p align="center">
-  <a href="https://github.com/singhkrish2607-sudo/Bus_booking_analysis">
-    <img src="assets/project-5.svg" width="49%" alt="SETURA Bus Booking System"/>
-  </a>
-  <a href="https://github.com/singhkrish2607-sudo/portfolio">
-    <img src="assets/project-6.svg" width="49%" alt="DataVision AI &amp; Developer Web"/>
-  </a>
-</p>
+<a href="https://github.com/singhkrish2607-sudo/SQL-data-warehouse-project">
+  <img src="assets/project-3.svg" width="100%" alt="Enterprise Modern SQL Data Warehouse"/>
+</a>
+
+<a href="https://github.com/singhkrish2607-sudo/Zepto-Data-Analysis-SQL-Project">
+  <img src="assets/project-4.svg" width="100%" alt="Zepto Quick-Commerce Data Analysis"/>
+</a>
+
+<a href="https://github.com/singhkrish2607-sudo/Bus_booking_analysis">
+  <img src="assets/project-5.svg" width="100%" alt="SETURA Intercity Bus Booking System"/>
+</a>
+
+<a href="https://github.com/singhkrish2607-sudo/portfolio">
+  <img src="assets/project-6.svg" width="100%" alt="DataVision AI &amp; Developer Web Portfolio"/>
+</a>
 
 </details>
 
@@ -93,35 +90,35 @@ Explore all public codebases directly across my [GitHub Repositories](https://gi
 
 <br/><br/>
 
-<!-- GitHub Streak Stats (Light, high-contrast text and bright glowing borders) -->
+<!-- GitHub Streak Stats (Seamless GitHub Dark background #0D1117, bright electric cyan & white text) -->
 <a href="https://github.com/singhkrish2607-sudo">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2607-sudo&amp;theme=dark&amp;background=0B132B&amp;border=38BDF8&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00F2FE&amp;sideLabels=38BDF8&amp;dates=F1F5F9&amp;hide_border=false" alt="Krish's GitHub streak" width="70%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=singhkrish2607-sudo&amp;theme=dark&amp;background=0D1117&amp;border=38BDF8&amp;stroke=38BDF8&amp;ring=38BDF8&amp;fire=38BDF8&amp;currStreakNum=FFFFFF&amp;sideNums=FFFFFF&amp;currStreakLabel=00F2FE&amp;sideLabels=38BDF8&amp;dates=94A3B8&amp;hide_border=false" alt="Krish's GitHub streak" width="70%"/>
 </a>
 
 <br/><br/>
 
-<!-- GitHub Profile Summary Cards (TokyoNight theme: high-contrast sky blue headers and bright silver text) -->
+<!-- GitHub Profile Summary Cards (github_dark theme: native #0d1117 background with vibrant official language chart colors) -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhkrish2607-sudo&amp;theme=tokyonight" width="32%" alt="Repos Per Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhkrish2607-sudo&amp;theme=tokyonight" width="32%" alt="Most Commit Language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhkrish2607-sudo&amp;theme=tokyonight&amp;utcOffset=%2B5.5" width="32%" alt="Productive Time"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=singhkrish2607-sudo&amp;theme=github_dark" width="32%" alt="Repos Per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=singhkrish2607-sudo&amp;theme=github_dark" width="32%" alt="Most Commit Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=singhkrish2607-sudo&amp;theme=github_dark&amp;utcOffset=%2B5.5" width="32%" alt="Productive Time"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhkrish2607-sudo&amp;theme=tokyonight" width="100%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=singhkrish2607-sudo&amp;theme=github_dark" width="100%" alt="Profile Details"/>
 </p>
 
-<!-- Live Contribution Heatmap (Vibrant neon cyan) -->
+<!-- Live Contribution Heatmap (Electric Neon Cyan) -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00F2FE/singhkrish2607-sudo">
+  <source media="(prefers-color-scheme: dark)" srcset="https://ghchart.rshah.org/00D2FF/singhkrish2607-sudo">
   <img src="https://ghchart.rshah.org/0284C7/singhkrish2607-sudo" alt="Krish's GitHub contribution graph" width="100%"/>
 </picture>
 
 <br/><br/>
 
-<!-- Random Dev Quote (Bright cyan quote, pure white author) -->
+<!-- Random Dev Quote (GitHub Dark background #0D1117, bright cyan quote, white author) -->
 <a href="https://github.com/singhkrish2607-sudo">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quoteColor=38BDF8&amp;authorColor=FFFFFF&amp;backgroundColor=0B1220" alt="Random Dev Quote"/>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&amp;theme=dark&amp;quoteColor=38BDF8&amp;authorColor=FFFFFF&amp;backgroundColor=0D1117" alt="Random Dev Quote"/>
 </a>
 
 </div>

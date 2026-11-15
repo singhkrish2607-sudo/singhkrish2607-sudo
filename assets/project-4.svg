@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 200" width="580" height="200" role="img" aria-label="Zepto Quick-Commerce Analysis">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 132" width="1200" height="132" role="img" aria-label="Zepto Quick-Commerce Data Analysis">
 <style>
-  @media (prefers-reduced-motion: reduce) { .rm { display: none; } }
-  .r-mono { font-family: 'SF Mono', Consolas, Menlo, monospace; }
-  .r-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; }
+  @media (prefers-reduced-motion: reduce) { .pm { display: none; } }
+  .p-mono { font-family: 'SF Mono', Consolas, Menlo, monospace; }
+  .p-sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', sans-serif; }
 </style>
 <defs>
 <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -29,11 +29,6 @@
   <stop offset="0.5" stop-color="#38BDF8" stop-opacity="0.18"/>
   <stop offset="1" stop-color="#38BDF8" stop-opacity="0"/>
 </linearGradient>
-<linearGradient id="text-grad" x1="0" y1="0" x2="1" y2="0">
-  <stop offset="0" stop-color="#38BDF8"/>
-  <stop offset="0.5" stop-color="#FFFFFF"/>
-  <stop offset="1" stop-color="#818CF8"/>
-</linearGradient>
 <filter id="blur-glow" x="-100%" y="-100%" width="300%" height="300%">
   <feGaussianBlur stdDeviation="3"/>
 </filter>
@@ -41,32 +36,33 @@
   <feGaussianBlur stdDeviation="8"/>
 </filter>
 </defs>
-<rect width="580" height="200" rx="14" fill="#0B1220"/>
-<rect x="1" y="1" width="578" height="198" rx="13" fill="none" stroke="url(#border-glow)" stroke-width="1.2"/>
+<rect width="1200" height="132" rx="14" fill="#0B1220"/>
+<rect x="1" y="1" width="1198" height="130" rx="13" fill="none" stroke="url(#border-glow)" stroke-width="1.2"/>
 
-<!-- Left Edge Highlight -->
-<rect x="0" y="20" width="4" height="160" rx="2" fill="#6366F1"/>
-<rect class="rm" x="0" y="20" width="4" height="160" rx="2" fill="#38BDF8" opacity="0">
+<!-- Left Edge Accent Bar -->
+<rect x="0" y="24" width="4" height="84" rx="2" fill="#6366F1"/>
+<rect class="pm" x="0" y="24" width="4" height="84" rx="2" fill="#38BDF8" opacity="0">
   <animate attributeName="opacity" values="0;1;0" dur="4s" repeatCount="indefinite"/>
 </rect>
 
-<!-- Top Row: Category + ID + External Arrow -->
-<text x="28" y="36" class="r-mono" font-size="10.5" font-weight="700" letter-spacing="1.5" fill="#38BDF8">BUSINESS INTELLIGENCE · EDA</text>
-<text x="510" y="36" class="r-mono" font-size="10.5" font-weight="700" fill="#64748B">PROJ_04</text>
-<path d="M544 26L554 36M554 26L554 36L544 36" fill="none" stroke="#38BDF8" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Number Tag & Category -->
+<text x="32" y="38" class="p-mono" font-size="11" font-weight="700" letter-spacing="2" fill="#38BDF8">PROJ_04</text>
+<circle cx="95" cy="34" r="2.5" fill="#64748B"/>
+<text x="108" y="38" class="p-mono" font-size="11" font-weight="600" letter-spacing="1.5" fill="#64748B">BUSINESS INTELLIGENCE · EDA</text>
 
 <!-- Title -->
-<text x="28" y="68" class="r-sans" font-size="17" font-weight="700" fill="#F8FAFC">Zepto Quick-Commerce Analysis</text>
+<text x="32" y="68" class="p-sans" font-size="20" font-weight="700" fill="#F8FAFC">Zepto Quick-Commerce Data Analysis</text>
 
 <!-- Description -->
-<text x="28" y="96" class="r-sans" font-size="13" fill="#94A3B8">Deep exploratory SQL analysis in MySQL discovering retention,</text><text x="28" y="118" class="r-sans" font-size="13" fill="#94A3B8">peak delivery intervals, basket sizes, and commercial drivers.</text>
+<text x="32" y="93" class="p-sans" font-size="13.5" fill="#94A3B8">Deep exploratory SQL analysis in MySQL discovering customer retention rates,</text>
+<text x="32" y="113" class="p-sans" font-size="13.5" fill="#94A3B8">peak delivery intervals, order basket sizes, and actionable commercial drivers.</text>
 
-<!-- Bottom Row Tech Badges Aligned Horizontally -->
+<!-- Perfectly Aligned Right Skill Badges -->
 
-  <rect x="28" y="152" width="58" height="24" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="57.0" y="168" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11" font-weight="600" fill="#38BDF8">MySQL</text>
-  <rect x="94" y="152" width="130" height="24" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="159.0" y="168" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11" font-weight="600" fill="#38BDF8">EDA &amp; Cleaning</text>
-  <rect x="232" y="152" width="114" height="24" rx="12" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
-  <text x="289.0" y="168" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11" font-weight="600" fill="#38BDF8">BI Analytics</text>
+<rect x="1099.5" y="26" width="66.5" height="26" rx="13" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="1132.75" y="43" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11" font-weight="600" fill="#94A3B8">MySQL</text>
+<rect x="1023.0" y="58" width="143.0" height="26" rx="13" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="1094.5" y="75" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11" font-weight="600" fill="#94A3B8">EDA &amp; Cleaning</text>
+<rect x="1040.0" y="90" width="126.0" height="26" rx="13" fill="#0F172A" stroke="#1E293B" stroke-width="1"/>
+<text x="1103.0" y="107" text-anchor="middle" font-family="'SF Mono', Consolas, Menlo, monospace" font-size="11" font-weight="600" fill="#94A3B8">BI Analytics</text>
 </svg>
